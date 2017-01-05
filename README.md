@@ -17,7 +17,7 @@ which is necessary for the FFT algos to work.
 
 (2) -m = MODE { d -> DFT (slow), r -> recursive FFT (much faster), f -> iterative FFT (Fastest) }
 
-(3) -f -> Sampling frequency, this is purely easy plotting. This program will print out 
+(3) -f -> Sampling frequency, this is purely for easy plotting. This program will print out 
 data in the form "(freq Index) (value) \n". Using GNUplot is an easy way to plot your signals 
 
 
