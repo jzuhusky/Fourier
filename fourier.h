@@ -11,8 +11,6 @@
 #include <bitset>
 #include <time.h>
 
-#include "matrixHelper.h"
-
 using namespace std;
 
 double pi = M_PI;
