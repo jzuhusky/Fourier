@@ -1,5 +1,7 @@
 ### Fourier Code
 
+**This is a work in progress. Next Steps are to expand code for 2D & 3D FFTs **
+
 The DFT & FFT routines are inside of the fourier.h file. 
 
 The main program should allow you to run the code from the Unix-command line:
