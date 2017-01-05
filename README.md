@@ -22,5 +22,5 @@ which is necessary for the FFT algos to work.
 (3) -f -> Sampling frequency, this is purely for easy plotting. This program will print out 
 data in the form "(freq Index) (value) \n". Using GNUplot is an easy way to plot your signals 
 
-
+**Also Note: It is the programmer's job to normalize output of the FFT and/or iFFT** 
 
