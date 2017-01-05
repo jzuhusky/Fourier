@@ -1,8 +1,10 @@
-## Fourier CODE
+### Fourier Code
 
 The DFT & FFT routines are inside of the fourier.h file. 
 
 The main program should allow you to run the code from the Unix-command line:
+
+do : "g++ (mainProg.cpp)"
 
 ./a.out -m (d|f|r) -f (samplingFrequency) inputFile/signal
 
