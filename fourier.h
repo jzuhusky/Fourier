@@ -118,6 +118,10 @@ int reverseBits(unsigned int numberToReverse, int limit){
 			break;
 		}
 	}
+	/*
+	Got this general Alg from "http://www.geeksforgeeks.org/write-an-efficient-c-program-to-reverse-bits-of-a-number/" 
+	NOT MY CODE!!(below)
+	*/
 	for (int i = 0; i < numberOfBits; i++){
 		temp = (numberToReverse & (1 << i));
 		if(temp){
